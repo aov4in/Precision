@@ -23,4 +23,4 @@ public class Main {
 ## Результаты
 
 1. Итоговый результат totalBonus выводится некорректно.
-2. * <a href="1">Баг-репорт 1</a>
+2. <a href="https://github.com/aov4in/Precision/issues/1#issue-787702321">Баг-репорт 1</a>
